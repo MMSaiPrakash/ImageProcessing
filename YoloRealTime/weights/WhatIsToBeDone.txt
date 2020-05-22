@@ -1,0 +1,11 @@
+1. Download the weights files from the link provided.
+
+yolov3-tiny:
+https://pjreddie.com/media/files/yolov3-tiny.weights
+
+yolov3:
+https://pjreddie.com/media/files/yolov3.weights
+
+2. Copy those files into this weights folder.
+
+3. Now run the YoloRealTime.py
